@@ -6,7 +6,7 @@ author: content/data/team/hilary-ouse.json
 excerpt: Brand development
 featuredImage:
   type: ImageBlock
-  url: /images/work-photography-magazine-1.jpeg
+  url: /images/1794495.jpg
   altText: Post Image
   caption: This is the caption of the image
 bottomSections:
@@ -21,14 +21,24 @@ bottomSections:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-12', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-4
         justifyContent: center
       title:
         fontWeight: '700'
         fontStyle: normal
         textAlign: center
-        margin: ['mt-0', 'mb-12']
+        margin:
+          - mt-0
+          - mb-12
       subtitle:
         fontWeight: '400'
         fontStyle: normal
